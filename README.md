@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Anna DEV 😁
+## Bem-vindo(a) ao perfil do Anna Santana 😁
 
  <div>
-   <a href="https://github.com/Annadev04">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annadev04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annadev04&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/annasantana04">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annasantana04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasantana04&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
